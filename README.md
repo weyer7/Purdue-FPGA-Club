@@ -6,8 +6,8 @@ Promoting student-led design, verification, and implementation of user-defined h
 
 ## General Meeting Information
 - **Meeting Frequency**: Biweekly  
-- **Location**: BHEE 164 (270 Lab)  
-- **Meeting Time**: Thursday at 7:30pm
+- **Location**: BHEE 117 (ECE 270 Lab)  
+- **Meeting Time**: Thursday at 7:40pm
 
 ---
 
@@ -18,8 +18,8 @@ Promoting student-led design, verification, and implementation of user-defined h
 ---
 
 ## Labs and Equipment Usage
-- **Access**: Students may use the 270 Lab at any time outside class hours to work on projects.  
-- **Club Equipment**: Located in the club locker at the back of the lab. Equipment use is allowed after attending at least one meeting.
+- **Access**: Students may use the ECE 270 Lab (BHEE 164) at any time outside class hours to work on projects.  
+- **Club Equipment**: Located in the club locker (Cabinet 15) at the back of the lab. Equipment use is allowed after attending at least one meeting.
 
 ### Lab and Equipment Rules
 1. **Authorization Required**: Do not remove FPGA club property or lab equipment from the lab space without authorization.  
@@ -55,4 +55,4 @@ For **Spring 2025**, the club offers the following two project paths:
 ---
 
 ## Contact
-For questions, feel free to reach out to FPGA Club officers via the discord.
+For questions, feel free to reach out to FPGA Club officers via the [Discord](https://discord.com/invite/DYDBBp7gQk).
