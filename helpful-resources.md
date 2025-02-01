@@ -1,5 +1,5 @@
 # Helpful Resources
----
+
 ## GitHub and VSCode Tutorial
 https://www.youtube.com/watch?v=RGOj5yH7evk&t=425s
 ## SystemVerilog Crash Course
